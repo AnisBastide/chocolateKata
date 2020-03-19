@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChocolateKata", "ChocolateKata\ChocolateKata.csproj", "{34DB857F-5BCB-4247-B707-FBEDBA6B3690}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChocolateKataTest", "ChocolateKataTest\ChocolateKataTest.csproj", "{3BBED982-732E-4C7C-8D2A-89428573D892}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34DB857F-5BCB-4247-B707-FBEDBA6B3690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34DB857F-5BCB-4247-B707-FBEDBA6B3690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34DB857F-5BCB-4247-B707-FBEDBA6B3690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34DB857F-5BCB-4247-B707-FBEDBA6B3690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BBED982-732E-4C7C-8D2A-89428573D892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BBED982-732E-4C7C-8D2A-89428573D892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BBED982-732E-4C7C-8D2A-89428573D892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BBED982-732E-4C7C-8D2A-89428573D892}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B875C9DF-45E0-49B8-BEFD-67192BD854A4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\bastide\OneDrive - Pyramid\Bureau\ChocolateKata\ChocolateKata\ChocolateKata\bin\Debug\ChocolateKata.dll
+C:\Users\bastide\OneDrive - Pyramid\Bureau\ChocolateKata\ChocolateKata\ChocolateKata\bin\Debug\ChocolateKata.pdb
+C:\Users\bastide\OneDrive - Pyramid\Bureau\ChocolateKata\ChocolateKata\ChocolateKata\obj\Debug\ChocolateKata.csprojAssemblyReference.cache
+C:\Users\bastide\OneDrive - Pyramid\Bureau\ChocolateKata\ChocolateKata\ChocolateKata\obj\Debug\ChocolateKata.dll
+C:\Users\bastide\OneDrive - Pyramid\Bureau\ChocolateKata\ChocolateKata\ChocolateKata\obj\Debug\ChocolateKata.pdb

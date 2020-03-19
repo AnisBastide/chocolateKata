@@ -1,0 +1,11 @@
+C:\Users\bastide\OneDrive - Pyramid\Bureau\ChocolateKata\ChocolateKata\ChocolateKataTest\obj\Debug\ChocolateKataTest.csprojAssemblyReference.cache
+C:\Users\bastide\OneDrive - Pyramid\Bureau\ChocolateKata\ChocolateKata\ChocolateKataTest\bin\Debug\ChocolateKataTest.dll
+C:\Users\bastide\OneDrive - Pyramid\Bureau\ChocolateKata\ChocolateKata\ChocolateKataTest\bin\Debug\ChocolateKataTest.pdb
+C:\Users\bastide\OneDrive - Pyramid\Bureau\ChocolateKata\ChocolateKata\ChocolateKataTest\bin\Debug\ChocolateKata.dll
+C:\Users\bastide\OneDrive - Pyramid\Bureau\ChocolateKata\ChocolateKata\ChocolateKataTest\bin\Debug\nunit.framework.dll
+C:\Users\bastide\OneDrive - Pyramid\Bureau\ChocolateKata\ChocolateKata\ChocolateKataTest\bin\Debug\ChocolateKata.pdb
+C:\Users\bastide\OneDrive - Pyramid\Bureau\ChocolateKata\ChocolateKata\ChocolateKataTest\bin\Debug\nunit.framework.pdb
+C:\Users\bastide\OneDrive - Pyramid\Bureau\ChocolateKata\ChocolateKata\ChocolateKataTest\bin\Debug\nunit.framework.xml
+C:\Users\bastide\OneDrive - Pyramid\Bureau\ChocolateKata\ChocolateKata\ChocolateKataTest\obj\Debug\ChocolateKataTest.csproj.CopyComplete
+C:\Users\bastide\OneDrive - Pyramid\Bureau\ChocolateKata\ChocolateKata\ChocolateKataTest\obj\Debug\ChocolateKataTest.dll
+C:\Users\bastide\OneDrive - Pyramid\Bureau\ChocolateKata\ChocolateKata\ChocolateKataTest\obj\Debug\ChocolateKataTest.pdb
